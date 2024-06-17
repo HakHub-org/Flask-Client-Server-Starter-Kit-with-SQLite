@@ -1,13 +1,10 @@
-# Certainly! Here's a comprehensive `README.md` that details the setup and usage instructions for your project, including setting up separate virtual environments for the client and server, installing the requirements, running the applications, and configuring SQLite
-
 ---
 
-## Flask Client-Server Template
+# Flask Client-Server Starter Kit with SQLite
 
 ## Project Structure
 
-```text
-
+```plaintext
 my_flask_template/
 ├── client/
 │   ├── gui.py
@@ -267,5 +264,6 @@ my_flask_template/
    - Follow the setup instructions above to set up and run the server and client for your new project.
 
 ---
+# License
 
-By following these instructions, you'll be able to quickly set up and start new projects based on this template, saving time and ensuring consistency across different projects.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
