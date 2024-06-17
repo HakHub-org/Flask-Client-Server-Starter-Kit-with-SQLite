@@ -1,0 +1,7 @@
+PyQt5==5.15.4              # PyQt5 for building the GUI
+requests==2.26.0           # For making HTTP requests to the server
+PyQt5-sip==12.9.0          # Required for PyQt5
+PyQt5-stubs==5.15.6.0      # Stubs for type checking with PyQt5
+python-dotenv==0.19.2      # Environment variable management
+cryptography==3.4.7        # For any encryption needs
+asyncio==3.4.3             # Asynchronous I/O

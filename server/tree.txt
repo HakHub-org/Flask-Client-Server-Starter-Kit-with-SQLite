@@ -1,0 +1,44 @@
+.
+|-- .env
+|-- app.py
+|-- config
+|-- |-- environment_loader.py
+|-- |-- logging_config.py
+|-- |-- _init_.py
+|-- config.py
+|-- database
+|-- |-- connection.py
+|-- |-- database_dev.sqlite
+|-- |-- database_prod.sqlite
+|-- |-- database_test.sqlite
+|-- |-- dev_sqlitedb_create.py
+|-- |-- init_db.py
+|-- |-- prod_sqlitedb_create.py
+|-- |-- test_sqlitedb_create.py
+|-- database_dev.sqlite
+|-- modules
+|-- |-- routes.py
+|-- |-- utils.py
+|-- |-- __init__.py
+|-- project_structure.py
+|-- requirements.txt
+|-- security
+|-- |-- settings.py
+|-- |-- _init_.py
+|-- services
+|-- |-- integration.py
+|-- |-- _init_.py
+|-- startup.ps1
+|-- static
+|-- |-- css
+|-- |-- |-- styles.css
+|-- |-- js
+|-- |-- |-- scripts.js
+|-- templates
+|-- |-- index.html
+|-- tree.txt
+|-- utils
+|-- |-- error_reporting.py
+|-- |-- performance.py
+|-- |-- _init_.py
+|-- __init__.py
